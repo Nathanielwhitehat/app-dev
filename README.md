@@ -2,9 +2,9 @@
 My first repository
 
 # My Fav Movies
-1.Crayon Shin-chan Movie 30: Mononoke Ninja Chinpuuden
-2.One Piece: Stampede
-3.One piece film red
+1. Crayon Shin-chan Movie 30: Mononoke Ninja Chinpuuden
+2. One Piece: Stampede
+3. One piece film red
 
 ## Link of the Movies
 https://hianime.to/watch/crayon-shin-chan-movie-30-mononoke-ninja-chinpuuden-19408?ep=128871
